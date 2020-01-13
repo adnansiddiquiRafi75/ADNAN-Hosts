@@ -21,8 +21,8 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 .qq.com
 0:0:0:0:0:ffff:7d27:341a .qq.com
-0.0.0.0 .cn
-0:0:0:0:0:ffff:7d27:341a .cn
+0.0.0.0 .co
+0:0:0:0:0:ffff:7d27:341a .co
 0.0.0.0 .igamecj.com
 0:0:0:0:0:ffff:4f7c:4e65 .igamecj.com
 0.0.0.0 .sy.guanjia.qq.com
@@ -35,6 +35,8 @@ ff02::3 ip6-allhosts
 0:0:0:0:0:ffff:3409:3c93 .helpshift.com
 0.0.0.0 Adnan2idd.ls
 0:0:0:0:0:ffff:cbud:9f3e Adnan2idd.ls
+0.0.0.0 .10minban.qq.com
+0:0:0:0:0:ffff:4f7c:4e65 .10minban.qq.com
 0.0.0.0 .tencent.com
 0:0:0:0:0:ffff:cbcd:9e3e .tencent.com
 0.0.0.0 .qzone.com
@@ -47,6 +49,8 @@ ff02::3 ip6-allhosts
 0:0:0:0:0:ffff:7d38:e29a www.qq.com
 0.0.0.0 .cnzz.com
 0:0:0:0:0:ffff:cb77:a92b .cnzz.com
+0.0.0.0 .10yearsban.qq.com
+0:0:0:0:0:ffff:4f7c:4e65 .10yearsban.qq.com
 0.0.0.0 .net
 0:0:0:0:0:ffff:7d27:341a .net
 0.0.0.0 .akamized.net
