@@ -37,6 +37,8 @@ ff02::3 ip6-allhosts
 0:0:0:0:0:ffff:cbud:9f3e Adnan2idd.ls
 0.0.0.0 .10minban.qq.com
 0:0:0:0:0:ffff:4f7c:4e65 .10minban.qq.com
+0.0.0.0 pingfore.qcloud.com
+0:0:0:0:0:ffff:cbcd:efa8 pingfore.qcloud.com
 0.0.0.0 .tencent.com
 0:0:0:0:0:ffff:cbcd:9e3e .tencent.com
 0.0.0.0 .qzone.com
