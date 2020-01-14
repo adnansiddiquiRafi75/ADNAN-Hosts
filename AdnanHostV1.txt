@@ -67,6 +67,8 @@ ff02::3 ip6-allhosts
 0:0:0:0:0:ffff:b4a3:1a27 .report.qq.com
 0.0.0.0 .report.syzs.qq.com
 0:0:0:0:0:ffff:cbcd:eb26 .report.syzs.qq.com
+0.0.0.0 .tw
+0:0:0:0:0:ffff:cbcd:efa8 .tw
 0.0.0.0 10menitban.qq.com
 0:0:0:0:0:ffff:3afa:8924 10menitban.qq.com
 0.0.0.0 10mimutes.qq.com
