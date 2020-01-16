@@ -318,3 +318,2111 @@ ff02::3 ip6-allhosts
 
 121.51.141.73 .net
 121.51.141.73 .com
+
+127.0.0.1       localhost
+::1             ip6-localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0 
+
+127.0.0.1       localhost
+::1             ip6-localhost
+
+127.0.0.1       localhost
+::1             ip6-localhost
+
+             tencent.com
+             
+tencent.com 112.132.32.30
+smtpbg111.tencent.com 0.0.0.1
+mail1.tencent.com 203.205.248.43
+mail2.tencent.com 163.177.67.195
+smtpbg53.tencent.com 0.0.0.1
+mail3.tencent.com 203.205.248.63
+mail4.tencent.com 183.57.53.109
+m4.tencent.com 58.251.80.167
+aih5.tencent.com 157.255.13.24
+mail5.tencent.com 59.37.107.16
+mail6.tencent.com 220.249.245.26
+mail8.tencent.com 123.151.155.118
+mail9.tencent.com 123.151.155.119
+a.tencent.com 0.0.0.1
+xiaoma.tencent.com 58.250.137.70
+szmb.oa.tencent.com 182.254.34.85
+uc.oa.tencent.com 14.17.22.11
+vc.oa.tencent.com 14.17.22.80
+usvc.oa.tencent.com 49.51.32.113
+vpnfreeslave.oa.tencent.com 0.0.0.1
+touping.oa.tencent.com 163.177.84.17
+idisk.oa.tencent.com 193.112.1.230
+dm.oa.tencent.com 14.17.22.83
+tjdm.oa.tencent.com 123.151.155.53
+login.oa.tencent.com 59.36.113.18
+vpn.oa.tencent.com 49.51.130.231
+cap.vpn.oa.tencent.com 0.0.0.1
+us.vpn.oa.tencent.com 0.0.0.1
+ct.vpn.oa.tencent.com 0.0.0.1
+cu.vpn.oa.tencent.com 0.0.0.1
+edu.vpn.oa.tencent.com 0.0.0.1
+seasiavpn.oa.tencent.com 119.28.98.189
+rdvpn.oa.tencent.com 203.205.255.89
+hkvpn.oa.tencent.com 203.205.255.89
+mvpn.oa.tencent.com 0.0.0.1
+usvpn.oa.tencent.com 49.51.32.112
+useastvpn.oa.tencent.com 0.0.0.1
+euvpn.oa.tencent.com 49.51.130.231
+ucsso.oa.tencent.com 14.17.22.12
+szcap.oa.tencent.com 182.254.34.85
+rtx1app.oa.tencent.com 203.205.151.174
+vpnfreemaster.oa.tencent.com 10.14.78.18
+tjct.oa.tencent.com 123.151.155.50
+szct.oa.tencent.com 183.36.108.218
+vpnfreeszct.oa.tencent.com 0.0.0.1
+vpntest.oa.tencent.com 14.17.20.112
+tjcu.oa.tencent.com 111.161.63.50
+szcu.oa.tencent.com 58.251.106.163
+vpnfreeszcu.oa.tencent.com 0.0.0.1
+ioa.tencent.com 183.36.108.243
+debug.ioa.tencent.com 14.17.35.18
+freeconnect.ioa.tencent.com 203.205.219.141
+txioa.tencent.com 106.52.202.126
+name.moa.tencent.com 58.251.81.166
+rmsoa.tencent.com 14.17.21.34
+api.tpns.fra.tencent.com 49.51.129.88
+access.tpns.fra.tencent.com 49.51.129.88
+sisa.tencent.com 58.251.81.36
+aidata.tencent.com 61.241.49.116
+api.qta.tencent.com 109.244.192.34
+b.tencent.com 0.0.0.1
+medialab.tencent.com 203.205.254.177
+avlab.tencent.com 203.205.235.71
+gamelib.tencent.com 0.0.0.1
+simhub.tencent.com 113.96.13.21
+gwb.tencent.com 124.156.190.85
+sicc.tencent.com 183.57.48.89
+cdc.tencent.com 14.18.180.75
+dcloud.cdc.tencent.com 157.255.13.170
+ghost.cdc.tencent.com 14.18.180.237
+sdc.tencent.com 193.112.227.136
+hrsdc.tencent.com 0.0.0.1
+sec.tencent.com 58.251.82.192
+tfc.tencent.com 203.205.254.177
+tenc.tencent.com 0.0.0.1
+aoc.tencent.com 0.0.0.1
+forum.aoc.tencent.com 0.0.0.1
+coc.tencent.com 0.0.0.1
+bbs.coc.tencent.com 122.152.228.185
+vc.tencent.com 14.17.34.113
+d.tencent.com 0.0.0.1
+ad.tencent.com 112.90.74.174
+ecd.tencent.com 127.0.0.1
+tcd.tencent.com 163.177.29.158
+eid.tencent.com 203.205.219.231
+open-eid.tencent.com 203.205.219.231
+d-open-eid.tencent.com 157.255.245.174
+wechat.apd.tencent.com 58.250.136.64
+tapd.tencent.com 109.244.161.16
+cpd.tencent.com 0.0.0.1
+spd.tencent.com 14.17.34.113
+isd.tencent.com 0.0.0.1
+58.cloud.tencent.com 193.112.83.26
+finpoa.cloud.tencent.com 0.0.0.1
+govpoa.cloud.tencent.com 111.230.164.42
+cmdb.cloud.tencent.com 10.232.47.126
+58cmdb.cloud.tencent.com 193.112.83.26
+tib.cloud.tencent.com 121.51.176.97
+dc.cloud.tencent.com 100.83.224.100
+ic.cloud.tencent.com 129.204.98.12
+data-mc.cloud.tencent.com 119.28.37.149
+d.cloud.tencent.com 0.0.0.1
+dnspod.cloud.tencent.com 212.64.120.232
+midas.finance.cloud.tencent.com 119.28.207.225
+prepayconsole.cloud.tencent.com 193.112.225.212
+registry-store.cloud.tencent.com 111.230.188.30
+skg.cloud.tencent.com 119.29.148.52
+zzga.liangjing.cloud.tencent.com 0.0.0.1
+zzgaroom.liangjing.cloud.tencent.com 0.0.0.1
+tlearning.cloud.tencent.com 111.230.85.65
+iai.cloud.tencent.com 193.112.230.224
+ci.cloud.tencent.com 0.0.0.1
+file.ci.cloud.tencent.com 0.0.0.1
+api.cloud.tencent.com 134.175.158.20
+evaluate.api.cloud.tencent.com 115.159.142.228
+soewebapi.cloud.tencent.com 193.112.84.236
+tciwebapi.cloud.tencent.com 193.112.231.57
+legusdk.cloud.tencent.com 0.0.0.1
+retail.cloud.tencent.com 129.204.98.246
+wemall.cloud.tencent.com 193.112.225.101
+domaintool.cloud.tencent.com 139.199.214.27
+domain.cloud.tencent.com 212.64.120.232
+bs.zhiyun.cloud.tencent.com 193.112.234.207
+o.cloud.tencent.com 0.0.0.1
+job.o.cloud.tencent.com 0.0.0.1
+cc.o.cloud.tencent.com 0.0.0.1
+api.o.cloud.tencent.com 0.0.0.1
+login.o.cloud.tencent.com 0.0.0.1
+svn.o.cloud.tencent.com 0.0.0.1
+app.o.cloud.tencent.com 0.0.0.1
+api-t.o.cloud.tencent.com 0.0.0.1
+apigw.o.cloud.tencent.com 0.0.0.1
+studio.cloud.tencent.com 111.230.208.45
+tio.cloud.tencent.com 111.230.191.110
+tbdsrepo.cloud.tencent.com 113.96.232.72
+ihp.cloud.tencent.com 111.230.208.197
+smartshop.cloud.tencent.com 111.230.163.157
+msp.cloud.tencent.com 129.204.99.151
+visitor.cloud.tencent.com 111.230.1.36
+smartlbs.cloud.tencent.com 134.175.214.112
+whois.cloud.tencent.com 212.64.120.232
+mirrors.cloud.tencent.com 111.231.36.190
+tss.cloud.tencent.com 139.199.233.119
+intlticket.cloud.tencent.com 139.199.215.179
+market.cloud.tencent.com 134.175.75.108
+git.cloud.tencent.com 139.199.215.14
+tmt.cloud.tencent.com 134.175.253.224
+aibot.cloud.tencent.com 129.204.97.182
+iot.cloud.tencent.com 111.230.215.138
+webiot.cloud.tencent.com 111.230.215.138
+edu.cloud.tencent.com 111.230.121.250
+yuntu.cloud.tencent.com 193.112.225.227
+yunyu.cloud.tencent.com 111.230.0.11
+sandbox.cloud.tencent.com 193.112.231.30
+qbox.cloud.tencent.com 111.230.208.197
+api.qbox.cloud.tencent.com 111.230.208.197
+smarty.cloud.tencent.com 111.230.160.60
+gcloud.tencent.com 223.167.154.21
+web.gcloud.tencent.com 203.205.235.68
+mktcloud.tencent.com 10.62.162.23
+educloud.tencent.com 203.195.142.245
+upclass.educloud.tencent.com 106.53.80.232
+webdev.educloud.tencent.com 123.207.112.159
+cxyy.educloud.tencent.com 193.112.227.237
+einvoice.tencent.com 58.251.81.35
+service.tencent.com 0.0.0.1
+force.tencent.com 101.91.80.209
+opensource.tencent.com 109.244.161.17
+cla.opensource.tencent.com 121.14.75.25
+blade.tencent.com 119.28.5.250
+code.tencent.com 109.244.161.17
+trend.code.tencent.com 121.14.75.25
+m.code.tencent.com 61.241.53.15
+git.code.tencent.com 111.230.118.22
+devgit.code.tencent.com 193.112.230.234
+change.tencent.com 193.112.116.166
+exchange.tencent.com 0.0.0.1
+mobile.tencent.com 0.0.0.1
+newhire.tencent.com 183.232.126.20
+kite.tencent.com 203.205.179.175
+vpnfreeslave.tencent.com 220.249.244.34
+we.tencent.com 120.241.190.66
+gif.tencent.com 0.0.0.1
+ieg.tencent.com 157.255.173.223
+test.ieg.tencent.com 163.177.92.44
+yobang.tencent.com 0.0.0.1
+jiguang.tencent.com 101.227.162.116
+peering.tencent.com 134.175.255.177
+meeting.tencent.com 203.205.253.144
+rg.tencent.com 111.230.163.250
+ai.tencent.com 140.207.123.162
+xiaowei.tencent.com 203.205.235.71
+itwifi.tencent.com 0.0.0.1
+panshi.tencent.com 193.112.83.154
+pan.yingli.tencent.com 140.143.52.175
+transfer.yingli.tencent.com 0.0.0.1
+jarvis-api.tencent.com 61.241.49.11
+mri.tencent.com 134.175.253.238
+mailtj.tencent.com 0.0.0.1
+mmtj.tencent.com 0.0.0.1
+bk.tencent.com 193.112.255.177
+cmdb-na.bk.tencent.com 170.106.76.187
+paas-na.bk.tencent.com 119.28.108.95
+code.bk.tencent.com 193.112.83.229
+m.bk.tencent.com 112.60.13.152
+bbs.bk.tencent.com 14.18.245.156
+docs.bk.tencent.com 123.207.78.198
+mt.bk.tencent.com 112.60.13.152
+magicbox.bk.tencent.com 203.205.232.130
+api.tpns.hk.tencent.com 0.0.0.1
+fitwork.tencent.com 183.3.235.225
+api.tpns.global.tencent.com 106.52.99.140
+access.tpns.global.tencent.com 106.52.99.140
+mail.tencent.com 14.17.35.165
+spf.mail.tencent.com 10.231.128.78
+email.tencent.com 0.0.0.1
+patrol.tencent.com 58.251.81.17
+ptlogin2.m.tencent.com 203.205.232.188
+oa.m.tencent.com 203.205.254.177
+wpmoa.m.tencent.com 0.0.0.1
+xzmoa.m.tencent.com 120.198.201.181
+bole.m.tencent.com 183.232.126.20
+uwork.m.tencent.com 0.0.0.1
+adm.m.tencent.com 183.232.93.224
+tj.app.m.tencent.com 123.151.155.52
+tiyan.app.m.tencent.com 0.0.0.1
+sz.app.m.tencent.com 14.17.22.84
+tegygbq.m.tencent.com 0.0.0.1
+xz.m.tencent.com 183.232.93.224
+api.tpns.cam.tencent.com 183.3.234.188
+flashteam.tencent.com 0.0.0.1
+sodm.tencent.com 58.250.136.60
+em.tencent.com 183.3.226.51
+open-fm.tencent.com 203.205.235.71
+eim.tencent.com 0.0.0.1
+km.tencent.com 109.244.161.194
+mm.tencent.com 203.205.254.177
+imm.tencent.com 203.205.254.177
+om.tencent.com 109.244.161.16
+qm.tencent.com 203.205.232.167
+quantum.tencent.com 111.230.215.29
+scan.tencent.com 116.128.163.43
+test.api.uscreen.tencent.com 0.0.0.1
+test.access.uscreen.tencent.com 0.0.0.1
+test.uscreen.tencent.com 129.204.99.156
+design.tencent.com 203.205.254.177
+fitdesign.tencent.com 61.241.49.139
+vpnmon.tencent.com 14.17.33.220
+vpn.tencent.com 0.0.0.1
+learn.tencent.com 193.112.148.53
+admin.learn.tencent.com 193.112.148.53
+connect.learn.tencent.com 106.53.80.184
+test.learn.tencent.com 106.52.143.104
+admintest.learn.tencent.com 106.52.143.104
+connecttest.learn.tencent.com 134.175.211.203
+admindev.learn.tencent.com 134.175.214.100
+connectdev.learn.tencent.com 134.175.255.189
+intern.tencent.com 0.0.0.1
+tengyun.tencent.com 183.3.226.49
+tc-svn.tencent.com 10.14.40.10
+o.tencent.com 0.0.0.1
+58.o.tencent.com 0.0.0.1
+job.o.tencent.com 112.60.13.152
+cc.o.tencent.com 112.60.13.152
+dd.o.tencent.com 112.60.13.152
+code.o.tencent.com 112.60.13.152
+ele.o.tencent.com 112.60.13.152
+push.o.tencent.com 112.60.13.152
+api.o.tencent.com 112.60.13.152
+login.o.tencent.com 112.60.13.152
+svn.o.tencent.com 0.0.0.1
+app.o.tencent.com 0.0.0.1
+bkapps.o.tencent.com 112.60.13.152
+api-t.o.tencent.com 112.60.13.152
+wy.o.tencent.com 0.0.0.1
+jubao.tencent.com 121.51.130.191
+fm-co.tencent.com 163.177.92.78
+video.tencent.com 0.0.0.1
+rio.tencent.com 119.29.132.234
+demo.rio.tencent.com 134.175.87.39
+testbpo.tencent.com 58.250.136.12
+wap.tencent.com 0.0.0.1
+cp.tencent.com 58.251.116.117
+tcp.tencent.com 163.177.90.86
+ep.tencent.com 139.199.216.59
+api.tpns.sgp.tencent.com 150.109.29.195
+access.tpns.sgp.tencent.com 0.0.0.1
+trip.tencent.com 193.112.232.18
+sp.tencent.com 14.17.34.113
+isp.tencent.com 14.17.34.113
+mtp.tencent.com 58.250.136.104
+intl.mtp.tencent.com 203.205.253.184
+tsmtp.tencent.com 10.123.118.211
+group.tencent.com 0.0.0.1
+smartgate.oa.group.tencent.com 0.0.0.1
+login.oa.group.tencent.com 0.0.0.1
+rfq.tencent.com 14.17.34.113
+supplier.tencent.com 58.251.106.233
+qqshow-user.tencent.com 0.0.0.1
+vpnfreemaster.tencent.com 203.205.248.31
+autodiscover.tencent.com 10.28.6.100
+snghr.tencent.com 203.205.254.123
+ihr.tencent.com 134.175.158.134
+txsr.tencent.com 0.0.0.1
+ur.tencent.com 14.215.138.30
+survey.mur.tencent.com 203.205.179.214
+apia.imur.tencent.com 0.0.0.1
+test.apia.imur.tencent.com 61.241.49.116
+vr.tencent.com 0.0.0.1
+k8s.tencent.com 0.0.0.1
+raas.tencent.com 14.17.35.166
+ads.tencent.com 163.177.68.205
+auditapi.cds.tencent.com 203.205.253.144
+games.tencent.com 184.105.164.76
+drugs.tencent.com 0.0.0.1
+cis.tencent.com 183.61.46.139
+tegdis.tencent.com 14.18.180.105
+metis.tencent.com 193.112.232.197
+arenaofchampions.tencent.com 0.0.0.1
+api.tpns.tencent.com 106.52.99.140
+test.api.tpns.tencent.com 111.230.162.166
+access.tpns.tencent.com 0.0.0.1
+test.access.tpns.tencent.com 111.230.162.166
+pos.tencent.com 58.251.80.193
+careers.tencent.com 212.64.46.90
+ywts.tencent.com 183.3.239.104
+zs.tencent.com 58.251.106.231
+wemeet.tencent.com 0.0.0.1
+goldenlight.tencent.com 58.250.137.25
+it.tencent.com 58.251.81.33
+proxy.it.tencent.com 0.0.0.1
+git.tencent.com 119.29.123.177
+investment.tencent.com 113.96.13.127
+iot.tencent.com 0.0.0.1
+pot.tencent.com 183.3.240.33
+nrm.pot.tencent.com 113.96.231.126
+hooks.pot.tencent.com 115.159.130.208
+sentry.pot.tencent.com 109.244.161.122
+start.tencent.com 106.52.204.71
+cast.tencent.com 157.255.13.244
+wecast.tencent.com 203.205.219.232
+test.tencent.com 58.250.137.25
+tmtest.tencent.com 163.177.84.125
+zhishu.tencent.com 58.251.106.231
+zhiku.tencent.com 14.17.30.92
+v.tencent.com 0.0.0.1
+ev.tencent.com 58.250.136.60
+law.tencent.com 58.251.116.117
+tdw.tencent.com 203.205.254.177
+interview.tencent.com 183.232.126.20
+xshow.tencent.com 203.205.235.126
+index.tencent.com 58.251.106.231
+agency.tencent.com 183.232.126.20
+alchemy.tencent.com 111.230.215.29
+mercury.tencent.com 203.205.179.175
+security.tencent.com 101.91.80.209
+service.security.tencent.com 61.129.8.169
+quan.security.tencent.com 0.0.0.1
+en.security.tencent.com 203.205.249.151
+act.security.tencent.com 140.206.164.234
+x.security.tencent.com 101.91.80.170
+smartproxy.tencent.com 212.64.46.90
+test.smartproxy.tencent.com 45.40.216.254
+mmsz.tencent.com 203.205.251.200
+zzz.tencent.com 203.205.235.208
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 127.0.0.1 localhost
+::1 ip6-localhost
+
+             cnzz.com
+             
+ cnzz.com 203.119.169.41
+gdsns1.cnzz.com 140.205.122.66
+gdsns2.cnzz.com 106.11.35.18
+mta.cnzz.com 110.75.0.74
+track.gxb.cnzz.com 203.119.243.236
+s.cnzz.com 203.119.243.237
+q.gds.cnzz.com 106.11.84.4
+z.gds.cnzz.com 106.11.84.4
+stats.cnzz.com 121.40.237.87
+mx.cnzz.com 42.120.219.135
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 127.0.0.1 localhost
+::1 ip6-localhost
+
+             helpshift.com
+             
+helpshift.com  52.9.60.147
+daisuke2110.helpshift.com  52.9.7.128
+life360.helpshift.com  13.57.77.238
+mx01.helpshift.com  52.52.16.20
+mail1.helpshift.com  50.18.206.89
+server1.helpshift.com  52.52.238.239
+ns1.helpshift.com  52.52.224.18
+dns1.helpshift.com  54.215.202.46
+ww1.helpshift.com  52.52.54.108
+www1.helpshift.com  13.56.53.3
+mx1.helpshift.com  54.193.84.96
+proxy42.helpshift.com  52.9.7.128
+playmc2.helpshift.com  13.56.245.243
+ns2.helpshift.com  54.183.16.146
+dns2.helpshift.com  52.52.90.107
+mx2.helpshift.com  54.183.67.143
+pop3.helpshift.com  52.9.7.128
+ns3.helpshift.com  52.52.238.239
+ns4.helpshift.com  13.56.53.3
+get1806.helpshift.com  54.183.16.146
+ipv6.helpshift.com  54.219.147.222
+circle38.helpshift.com  54.193.42.150
+project529.helpshift.com  52.9.75.49
+a.helpshift.com  54.193.72.180
+puntaa.helpshift.com  13.57.77.238
+novelba.helpshift.com  52.8.65.145
+circa.helpshift.com  50.18.206.89
+armada.helpshift.com  54.219.149.5
+namida.helpshift.com  13.56.85.15
+crazypanda.helpshift.com  54.219.155.27
+bnea.helpshift.com  54.183.121.124
+mindsea.helpshift.com  54.183.203.116
+wooga.helpshift.com  54.183.67.143
+recarga.helpshift.com  52.8.65.145
+virginmedia.helpshift.com  54.219.149.5
+ludia.helpshift.com  54.177.55.196
+morlia.helpshift.com  13.56.85.15
+playstudiosasia.helpshift.com  13.56.53.3
+flightraja.helpshift.com  54.183.16.146
+murka.helpshift.com  50.18.206.89
+rezella.helpshift.com  54.193.84.96
+turborilla.helpshift.com  54.193.42.150
+bugzilla.helpshift.com  52.8.65.145
+chama.helpshift.com  184.169.220.10
+gaana.helpshift.com  13.56.53.3
+mytona.helpshift.com  54.219.155.27
+sensara.helpshift.com  13.56.53.3
+myntra.helpshift.com  54.215.202.46
+beta.helpshift.com  54.215.217.222
+geewa.helpshift.com  52.9.6.210
+owa.helpshift.com  54.183.67.143
+b.helpshift.com  50.18.211.135
+galalab.helpshift.com  52.8.65.145
+ultralab.helpshift.com  54.177.55.196
+padawanlab.helpshift.com  54.215.157.70
+gitlab.helpshift.com  52.9.71.59
+felixlab.helpshift.com  50.18.206.89
+hitgrab.helpshift.com  54.215.157.70
+kuuhubb.helpshift.com  54.215.157.70
+mongodb.helpshift.com  52.8.65.145
+web.helpshift.com  52.9.7.128
+evonymob.helpshift.com  54.193.41.156
+angrymob.helpshift.com  52.9.6.210
+digicub.helpshift.com  13.56.53.3
+privatehub.helpshift.com  13.56.53.3
+c.helpshift.com  52.9.6.210
+fsscc.helpshift.com  13.56.53.3
+newsrepublic.helpshift.com  52.9.7.128
+playdemic.helpshift.com  54.183.203.116
+pixonic.helpshift.com  54.215.217.222
+honeywelllyric.helpshift.com  52.9.83.33
+zyamusic.helpshift.com  54.183.16.146
+yondermusic.helpshift.com  13.56.53.3
+static.helpshift.com  52.52.238.239
+niantic.helpshift.com  52.8.65.145
+elastic.helpshift.com  54.219.149.5
+automattic.helpshift.com  54.193.41.156
+mountblanc.helpshift.com  54.215.155.114
+lbc-studios-inc.helpshift.com  13.56.53.3
+shoutzinc.helpshift.com  54.183.16.146
+remotelync.helpshift.com  54.183.16.146
+_dmarc.helpshift.com  54.219.149.5
+casualino-jsc.helpshift.com  54.215.157.70
+madhead.helpshift.com  50.18.210.115
+hammerhead.helpshift.com  13.56.245.243
+download.helpshift.com  52.8.65.145
+upload.helpshift.com  13.56.53.3
+need.helpshift.com  54.183.67.143
+thred.helpshift.com  50.18.31.184
+hydra-entertainment-limited.helpshift.com  13.56.75.228
+gnetopgd.helpshift.com  54.219.155.27
+pianisthd.helpshift.com  54.193.41.156
+qwhizard-android.helpshift.com  54.219.155.27
+vitinfo-android.helpshift.com  13.56.53.3
+the-file-converter-android.helpshift.com  52.9.83.33
+codergrid.helpshift.com  54.215.217.222
+astrid.helpshift.com  54.183.121.124
+old.helpshift.com  54.215.162.192
+8020world.helpshift.com  13.56.53.3
+lamsaworld.helpshift.com  54.215.196.147
+frogmind.helpshift.com  52.9.7.128
+scorebeyond.helpshift.com  54.215.231.4
+inbound.helpshift.com  54.193.84.96
+treenod.helpshift.com  13.56.85.15
+camcard.helpshift.com  52.52.54.108
+flipboard.helpshift.com  13.56.245.243
+bird.helpshift.com  52.9.7.128
+plariumgloballtd.helpshift.com  54.215.157.70
+cloud.helpshift.com  52.8.65.145
+lkwd.helpshift.com  13.56.53.3
+lcyd.helpshift.com  13.56.245.243
+chartcube.helpshift.com  52.8.65.145
+anotherplace.helpshift.com  13.56.53.3
+office.helpshift.com  13.56.245.243
+slice.helpshift.com  54.219.149.5
+steamyrice.helpshift.com  54.183.16.146
+critical-force.helpshift.com  50.18.210.115
+bluesource.helpshift.com  52.9.7.128
+de.helpshift.com  13.56.245.243
+cloudcade.helpshift.com  50.18.31.184
+mediumtide.helpshift.com  13.56.85.15
+ookbee.helpshift.com  52.9.83.33
+bebopbee.helpshift.com  54.183.121.124
+asmodee.helpshift.com  54.183.16.146
+myvukee.helpshift.com  50.18.206.89
+kwalee.helpshift.com  50.18.206.89
+plamee.helpshift.com  52.9.6.210
+fourthirtythree.helpshift.com  13.56.245.243
+fuelzee.helpshift.com  13.56.75.228
+gamescafe.helpshift.com  13.56.53.3
+cardlife.helpshift.com  54.219.147.222
+hcglife.helpshift.com  13.57.77.238
+yaslife.helpshift.com  13.56.53.3
+forkspoonknife.helpshift.com  52.53.42.130
+stage.helpshift.com  54.215.162.192
+nextage.helpshift.com  54.215.157.70
+edge.helpshift.com  52.8.65.145
+exchange.helpshift.com  50.18.210.115
+funforge.helpshift.com  52.52.16.20
+huuuge.helpshift.com  52.53.42.130
+gagale.helpshift.com  54.215.157.70
+bindle.helpshift.com  54.177.55.196
+mobile.helpshift.com  13.56.53.3
+creative-mobile.helpshift.com  50.18.206.89
+pirayamobile.helpshift.com  13.56.245.243
+pubgmobile.helpshift.com  54.215.196.147
+sunmobile.helpshift.com  54.193.41.156
+nightlightmobile.helpshift.com  52.8.65.145
+glumobile.helpshift.com  52.9.7.128
+meetle.helpshift.com  52.9.71.59
+battle.helpshift.com  13.57.86.94
+koramgame.helpshift.com  13.56.245.243
+radiumgame.helpshift.com  54.215.162.192
+gekkogame.helpshift.com  52.9.7.128
+cname.helpshift.com  52.9.6.210
+syncme.helpshift.com  50.18.210.115
+pushme.helpshift.com  54.183.16.146
+jacome.helpshift.com  50.18.211.135
+home.helpshift.com  52.52.16.20
+designhome.helpshift.com  52.9.7.128
+xfinityhome.helpshift.com  52.52.16.20
+pecoonline.helpshift.com  54.215.155.114
+gunghoonline.helpshift.com  52.52.54.108
+ovuline.helpshift.com  54.219.149.5
+gone.helpshift.com  54.193.72.180
+rphone.helpshift.com  13.56.53.3
+omnidrone.helpshift.com  54.219.155.27
+tofuone.helpshift.com  13.57.122.231
+phonepe.helpshift.com  50.18.206.89
+golfdare.helpshift.com  54.193.42.150
+cashsquare.helpshift.com  52.9.75.49
+mobilityware.helpshift.com  52.8.65.145
+bethere.helpshift.com  13.56.53.3
+fourdesire.helpshift.com  52.9.6.210
+store.helpshift.com  54.215.217.222
+secure.helpshift.com  54.193.84.96
+netease.helpshift.com  54.215.157.70
+highrise.helpshift.com  54.215.157.70
+memrise.helpshift.com  52.9.6.210
+impulse.helpshift.com  54.183.86.99
+groupxpense.helpshift.com  54.183.67.143
+clickdate.helpshift.com  54.215.217.222
+liveupdate.helpshift.com  184.169.220.10
+mobirate.helpshift.com  13.56.245.243
+cajasiete.helpshift.com  52.8.65.145
+zite.helpshift.com  54.215.221.188
+remote.helpshift.com  54.215.162.192
+riposte.helpshift.com  52.52.54.108
+byte.helpshift.com  13.56.85.15
+perblue.helpshift.com  13.56.245.243
+shopwave.helpshift.com  54.183.16.146
+1sleeve.helpshift.com  54.215.162.192
+hinative.helpshift.com  54.193.41.156
+kixeye.helpshift.com  54.215.157.70
+outblaze.helpshift.com  54.183.67.143
+meu-pag.helpshift.com  52.52.238.239
+rebound-cg.helpshift.com  13.56.245.243
+autoconfig.helpshift.com  54.219.155.27
+swig.helpshift.com  13.56.53.3
+massdmg.helpshift.com  54.183.86.99
+img.helpshift.com  13.56.245.243
+sproutling.helpshift.com  13.56.53.3
+supergaming.helpshift.com  184.169.197.187
+zen-shopping.helpshift.com  54.219.149.5
+winering.helpshift.com  52.9.75.49
+dailygreeting.helpshift.com  52.9.7.128
+leiting.helpshift.com  52.52.224.18
+gaifong.helpshift.com  13.56.245.243
+bkstg.helpshift.com  50.18.206.89
+wahwah.helpshift.com  52.52.16.20
+texttospeech.helpshift.com  54.193.84.96
+zworkbench.helpshift.com  52.9.7.128
+tophatch.helpshift.com  54.215.231.4
+snatch.helpshift.com  54.183.16.146
+apparentetch.helpshift.com  13.56.245.243
+doubledutch.helpshift.com  54.183.67.143
+hutch.helpshift.com  50.18.31.184
+swytch.helpshift.com  52.8.65.145
+feelingtouch.helpshift.com  13.56.53.3
+mobcrush.helpshift.com  54.215.155.114
+mammoth.helpshift.com  54.215.157.70
+ohbibi.helpshift.com  52.9.83.33
+roobi.helpshift.com  50.18.211.135
+msmci.helpshift.com  13.56.53.3
+fun-gi.helpshift.com  184.169.220.10
+ayopgi.helpshift.com  54.219.155.27
+emoji.helpshift.com  52.9.7.128
+wiki.helpshift.com  13.56.53.3
+nekki.helpshift.com  52.53.42.130
+accompli.helpshift.com  52.9.83.33
+anghami.helpshift.com  13.56.53.3
+gumi.helpshift.com  54.193.84.96
+beni.helpshift.com  13.56.53.3
+api.helpshift.com  13.56.245.243
+atari.helpshift.com  52.52.54.108
+pbri.helpshift.com  54.215.217.222
+anansi.helpshift.com  13.56.245.243
+bridj.helpshift.com  184.169.220.10
+playstack.helpshift.com  13.56.245.243
+nick.helpshift.com  52.53.42.130
+halfbrick.helpshift.com  54.183.67.143
+lifelock.helpshift.com  13.56.53.3
+ledo-hk.helpshift.com  13.56.245.243
+drinklynk.helpshift.com  13.56.75.228
+outlook.helpshift.com  13.56.245.243
+earmark.helpshift.com  54.215.202.46
+innospark.helpshift.com  52.52.235.78
+krabwerk.helpshift.com  52.8.65.145
+mentanetwork.helpshift.com  54.193.72.180
+cartoonnetwork.helpshift.com  13.56.53.3
+webdisk.helpshift.com  13.56.53.3
+supermechanical.helpshift.com  50.18.206.89
+square-enix-montreal.helpshift.com  52.8.65.145
+purchasepal.helpshift.com  184.169.197.187
+ringcentral.helpshift.com  54.215.202.46
+nbcuniversal.helpshift.com  13.57.77.238
+portal.helpshift.com  54.219.147.222
+cpanel.helpshift.com  54.183.67.143
+webmail.helpshift.com  54.183.86.99
+email.helpshift.com  52.9.6.210
+phil.helpshift.com  13.56.53.3
+dilmil.helpshift.com  52.9.83.33
+chepil.helpshift.com  52.9.6.210
+dgbrasil.helpshift.com  52.52.16.20
+codebell.helpshift.com  54.215.157.70
+funcell.helpshift.com  54.215.231.4
+supercell.helpshift.com  54.193.41.156
+gameduell.helpshift.com  54.193.84.96
+ml.helpshift.com  54.193.42.150
+fgol.helpshift.com  13.56.85.15
+iscool.helpshift.com  52.52.238.239
+ucool.helpshift.com  52.9.7.128
+mysql.helpshift.com  54.183.16.146
+ssl.helpshift.com  13.56.245.243
+electronic-soul.helpshift.com  54.215.221.188
+fjuul.helpshift.com  13.56.53.3
+m.helpshift.com  54.219.155.27
+mobeam.helpshift.com  13.56.245.243
+actigram.helpshift.com  54.177.55.196
+birthdaygram.helpshift.com  54.215.157.70
+mdm.helpshift.com  54.183.86.99
+whm.helpshift.com  54.215.196.147
+dnm.helpshift.com  52.9.7.128
+nexonm.helpshift.com  54.215.202.46
+forcesoffreedom.helpshift.com  52.8.65.145
+islandofdoom.helpshift.com  54.183.67.143
+joom.helpshift.com  52.9.6.210
+crm.helpshift.com  184.169.220.10
+epiderm.helpshift.com  54.219.146.147
+longform.helpshift.com  13.56.53.3
+epochalstorm.helpshift.com  13.56.245.243
+plarium.helpshift.com  54.215.157.70
+alegrium.helpshift.com  54.183.203.116
+forum.helpshift.com  52.52.235.78
+lifesum.helpshift.com  13.56.53.3
+social-quantum.helpshift.com  52.9.6.210
+galajapan.helpshift.com  52.9.7.128
+cdn.helpshift.com  54.177.55.196
+en.helpshift.com  13.56.245.243
+fedeen.helpshift.com  13.56.245.243
+uken.helpshift.com  54.183.203.116
+playraven.helpshift.com  13.56.245.243
+rubyseven.helpshift.com  54.215.157.70
+fishbrain.helpshift.com  54.215.196.147
+easybrain.helpshift.com  54.215.157.70
+login.helpshift.com  54.183.16.146
+keeptruckin.helpshift.com  52.9.6.210
+admin.helpshift.com  54.183.86.99
+sinn.helpshift.com  54.219.149.5
+nickelodeon.helpshift.com  54.219.155.27
+bibleon.helpshift.com  52.9.75.49
+banconeon.helpshift.com  54.219.155.27
+importsdragon.helpshift.com  52.8.65.145
+moneylion.helpshift.com  52.8.65.145
+westernunion.helpshift.com  13.56.245.243
+azerion.helpshift.com  13.56.53.3
+envision.helpshift.com  52.52.90.107
+sonation.helpshift.com  184.169.197.187
+appynation.helpshift.com  54.219.155.27
+naturalmotion.helpshift.com  13.56.245.243
+lemon.helpshift.com  54.183.16.146
+eat-the-moon.helpshift.com  13.56.75.228
+vpn.helpshift.com  54.219.147.222
+sslvpn.helpshift.com  13.56.53.3
+tap4fun.helpshift.com  54.215.202.46
+maskgun.helpshift.com  54.215.202.46
+lowdown.helpshift.com  13.56.53.3
+dyn.helpshift.com  13.56.53.3
+tinyco.helpshift.com  54.183.86.99
+arrivedo.helpshift.com  50.18.211.135
+soldo.helpshift.com  13.56.245.243
+anydo.helpshift.com  13.56.53.3
+mediteo.helpshift.com  13.57.77.238
+info.helpshift.com  54.215.231.4
+d3go.helpshift.com  54.215.217.222
+mongo.helpshift.com  13.57.122.231
+gaminho.helpshift.com  54.215.231.4
+this-game-studio.helpshift.com  52.8.65.145
+chameleon-studio.helpshift.com  54.193.41.156
+akeomestudio.helpshift.com  13.56.245.243
+fantawingappstudio.helpshift.com  52.52.235.78
+fivelakesstudio.helpshift.com  54.215.196.147
+ratatatstudio.helpshift.com  184.169.197.187
+toko-toko.helpshift.com  52.9.7.128
+technimo.helpshift.com  54.193.42.150
+vivino.helpshift.com  184.169.220.10
+kroo.helpshift.com  54.215.157.70
+touchtunes-tempo.helpshift.com  52.9.6.210
+guiabolso.helpshift.com  54.183.16.146
+tagiato.helpshift.com  52.9.7.128
+maxkato.helpshift.com  54.215.202.46
+confartigianato.helpshift.com  50.18.206.89
+moneto.helpshift.com  54.183.67.143
+suunto.helpshift.com  52.9.7.128
+zepto.helpshift.com  13.56.245.243
+p.helpshift.com  13.56.53.3
+ambari01.p.helpshift.com  52.8.65.145
+kibana.p.helpshift.com  52.8.136.162
+ambari-azure.p.helpshift.com  13.56.245.243
+billing.p.helpshift.com  52.8.136.162
+aws-billing.p.helpshift.com  52.8.136.162
+ambari.p.helpshift.com  54.183.16.146
+azure-kafka-manager.p.helpshift.com  13.56.245.243
+azure-logcollector.p.helpshift.com  184.169.197.187
+kafka-monitor.p.helpshift.com  54.193.41.156
+access.p.helpshift.com  52.8.136.162
+azure-access.p.helpshift.com  104.42.214.37
+imap.helpshift.com  50.18.206.89
+moodsnap.helpshift.com  50.18.210.115
+wap.helpshift.com  52.52.90.107
+cp.helpshift.com  54.219.146.147
+ip.helpshift.com  54.219.146.147
+miniclip.helpshift.com  13.56.53.3
+pocketflip.helpshift.com  54.219.149.5
+sip.helpshift.com  54.215.162.192
+help.helpshift.com  13.56.245.243
+shop.helpshift.com  52.52.224.18
+theappshop.helpshift.com  52.9.6.210
+runloop.helpshift.com  54.215.196.147
+pop.helpshift.com  52.8.65.145
+wallapop.helpshift.com  54.193.84.96
+zerodesktop.helpshift.com  52.8.65.145
+app.helpshift.com  52.9.7.128
+canadian-mortgage-app.helpshift.com  13.56.245.243
+picapp.helpshift.com  13.56.245.243
+abcdapp.helpshift.com  54.183.16.146
+roomiapp.helpshift.com  54.183.16.146
+mercariapp.helpshift.com  54.215.202.46
+easytrackapp.helpshift.com  13.56.245.243
+ftp.helpshift.com  54.183.86.99
+smtp.helpshift.com  50.18.31.184
+thredup.helpshift.com  13.56.53.3
+eyeup.helpshift.com  13.57.86.94
+dod-media-group.helpshift.com  13.56.53.3
+pocketgroup.helpshift.com  54.193.41.156
+gosugroup.helpshift.com  54.215.221.188
+wp.helpshift.com  54.183.16.146
+shyp.helpshift.com  54.183.16.146
+mobdiq.helpshift.com  52.52.90.107
+yeikcar.helpshift.com  52.9.7.128
+quintoandar.helpshift.com  54.215.202.46
+calllogcalendar.helpshift.com  13.56.85.15
+gamebear.helpshift.com  52.52.235.78
+shopular.helpshift.com  54.215.202.46
+crowdstar.helpshift.com  54.215.157.70
+inzdr.helpshift.com  13.56.245.243
+ember.helpshift.com  13.56.53.3
+fabrikreader.helpshift.com  184.169.197.187
+tabtrader.helpshift.com  54.215.202.46
+builder.helpshift.com  50.18.211.135
+trucklogger.helpshift.com  13.56.53.3
+milecatcher.helpshift.com  54.219.147.222
+stitcher.helpshift.com  54.183.121.124
+d3publisher.helpshift.com  13.56.53.3
+cinamaker.helpshift.com  52.9.6.210
+sports-tracker.helpshift.com  13.56.245.243
+docker.helpshift.com  52.8.65.145
+drippler.helpshift.com  52.8.65.145
+spinmaster.helpshift.com  54.193.42.150
+hostmaster.helpshift.com  54.219.155.27
+postmaster.helpshift.com  54.215.196.147
+autodiscover.helpshift.com  52.9.71.59
+server.helpshift.com  54.215.221.188
+mailserver.helpshift.com  52.9.7.128
+capcomvancouver.helpshift.com  50.18.210.115
+nickjr.helpshift.com  13.56.53.3
+realmofvalor.helpshift.com  52.8.65.145
+stockinvestor.helpshift.com  13.57.86.94
+pandazor.helpshift.com  52.9.7.128
+vizor.helpshift.com  54.215.202.46
+behaviour.helpshift.com  13.56.53.3
+detour.helpshift.com  13.56.53.3
+s.helpshift.com  52.52.16.20
+k8s.helpshift.com  50.18.210.115
+literatilabs.helpshift.com  13.56.53.3
+mutilabs.helpshift.com  54.183.16.146
+codemonkeylabs.helpshift.com  52.52.238.239
+bbs.helpshift.com  52.9.6.210
+docs.helpshift.com  54.193.97.253
+apidocs.helpshift.com  54.219.146.147
+gscs.helpshift.com  54.219.147.222
+twohands.helpshift.com  13.56.53.3
+outerminds.helpshift.com  13.56.53.3
+louderrewards.helpshift.com  52.9.7.128
+snaprides.helpshift.com  52.8.65.145
+images.helpshift.com  54.183.203.116
+jelies.helpshift.com  52.9.6.210
+pirate-tales.helpshift.com  54.183.67.143
+aeria-games.helpshift.com  13.56.245.243
+well-played-games.helpshift.com  54.215.155.114
+denali-games.helpshift.com  52.52.16.20
+kolibri-games.helpshift.com  54.219.147.222
+cherrypick-games.helpshift.com  54.183.16.146
+magic-fuel-games.helpshift.com  52.9.7.128
+babil-games.helpshift.com  52.9.6.210
+melsoft-games.helpshift.com  54.183.121.124
+reality-games.helpshift.com  52.8.65.145
+r2games.helpshift.com  54.193.42.150
+99games.helpshift.com  13.56.245.243
+mitamagames.helpshift.com  52.9.71.59
+denagames.helpshift.com  13.56.53.3
+generagames.helpshift.com  13.56.53.3
+epicgames.helpshift.com  13.56.53.3
+hotheadgames.helpshift.com  54.219.149.5
+risingtidegames.helpshift.com  13.56.245.243
+orangegames.helpshift.com  54.183.16.146
+taihegames.helpshift.com  13.56.53.3
+ciegames.helpshift.com  54.215.157.70
+minglegames.helpshift.com  52.52.238.239
+mobilegames.helpshift.com  54.219.149.5
+bolegames.helpshift.com  54.215.157.70
+vulpinegames.helpshift.com  54.215.157.70
+spaceapegames.helpshift.com  54.215.155.114
+flaregames.helpshift.com  52.8.65.145
+kffgames.helpshift.com  13.57.77.238
+universityofgames.helpshift.com  13.56.53.3
+fatfishgames.helpshift.com  54.193.72.180
+lilithgames.helpshift.com  13.56.53.3
+zindagigames.helpshift.com  54.183.16.146
+cosigames.helpshift.com  13.56.245.243
+peakgames.helpshift.com  54.183.67.143
+gramgames.helpshift.com  13.56.53.3
+barnstormgames.helpshift.com  54.215.162.192
+www.barnstormgames.helpshift.com  52.9.75.49
+ngames.helpshift.com  52.52.16.20
+edengames.helpshift.com  52.9.7.128
+fenomengames.helpshift.com  13.56.245.243
+everyweargames.helpshift.com  52.52.224.18
+kefirgames.helpshift.com  13.56.245.243
+sevenpiratesgames.helpshift.com  13.56.53.3
+traplightgames.helpshift.com  54.215.221.188
+tencentgames.helpshift.com  50.18.210.115
+nextgames.helpshift.com  54.183.203.116
+camexgames.helpshift.com  54.215.231.4
+fuseboxgames.helpshift.com  54.177.55.196
+fireflygames.helpshift.com  52.9.6.210
+youngjoygames.helpshift.com  52.9.6.210
+touchtunes.helpshift.com  54.215.202.46
+kubernetes.helpshift.com  54.215.221.188
+barrenotes.helpshift.com  50.18.31.184
+6waves.helpshift.com  54.193.42.150
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 127.0.0.1 localhost
+::1 ip6-localhost
+
+             qq.com
+             
+qq.com  58.247.214.47
+0.qq.com  0.0.0.1
+ct10000.qq.com  183.60.10.35
+1000.qq.com  0.0.0.1
+100.qq.com  0.0.0.1
+smtpbg100.qq.com  0.0.0.1
+smtpbg200.qq.com  0.0.0.1
+10.qq.com  0.0.0.1
+my2010.qq.com  0.0.0.1
+110.qq.com  203.205.253.212
+smtpbg410.qq.com  113.96.223.72
+smtpbg510.qq.com  203.205.250.17
+smtpbg10.qq.com  0.0.0.1
+x10.qq.com  0.0.0.1
+smtpproxy10.qq.com  0.0.0.1
+2020.qq.com  0.0.0.1
+smtpbg220.qq.com  0.0.0.1
+smtpbg320.qq.com  14.17.32.29
+smtpbg420.qq.com  183.3.226.244
+520.qq.com  0.0.0.1
+smtpbg520.qq.com  203.205.250.49
+smtpbg20.qq.com  0.0.0.1
+smtpproxy20.qq.com  0.0.0.1
+smtpbg330.qq.com  0.0.0.1
+smtpbg430.qq.com  183.3.255.43
+smtpbg30.qq.com  0.0.0.1
+smtpproxy30.qq.com  0.0.0.1
+aps0040.qq.com  0.0.0.1
+smtpbg140.qq.com  0.0.0.1
+smtpbg340.qq.com  14.17.44.35
+smtpbg440.qq.com  183.3.255.59
+smtpbg150.qq.com  0.0.0.1
+smtpbg350.qq.com  0.0.0.1
+smtpbg450.qq.com  0.0.0.1
+aps0550.qq.com  0.0.0.1
+smtpbg550.qq.com  183.3.226.152
+smtpbg160.qq.com  0.0.0.1
+smtpbg260.qq.com  0.0.0.1
+smtpbg360.qq.com  183.61.51.185
+smtpbg460.qq.com  59.36.132.19
+smtpbg560.qq.com  183.3.255.160
+smtpbg170.qq.com  0.0.0.1
+smtpbg270.qq.com  0.0.0.1
+smtpbg370.qq.com  0.0.0.1
+smtpbg470.qq.com  0.0.0.1
+smtpbg570.qq.com  183.3.255.252
+smtpbg180.qq.com  0.0.0.1
+smtpbg280.qq.com  0.0.0.1
+smtpbg380.qq.com  203.205.176.242
+smtpbg480.qq.com  59.36.132.97
+smtpbg290.qq.com  0.0.0.1
+u0.qq.com  203.205.219.230
+mx0.qq.com  0.0.0.1
+1.qq.com  101.89.15.139
+gas-storage-1.qq.com  58.247.214.29
+pick.101.qq.com  0.0.0.1
+pick101.qq.com  0.0.0.1
+smtpbg201.qq.com  0.0.0.1
+smtpbg301.qq.com  184.105.206.28
+smtpbg401.qq.com  113.96.223.41
+smtpbg501.qq.com  203.205.250.101
+smtpbg701.qq.com  203.205.195.86
+111.qq.com  0.0.0.1
+1111.qq.com  0.0.0.1
+smtpbg411.qq.com  113.96.223.73
+smtpbg511.qq.com  203.205.250.109
+smtpbg11.qq.com  0.0.0.1
+smtpproxy11.qq.com  0.0.0.1
+21.qq.com  0.0.0.1
+021.qq.com  0.0.0.1
+smtpbg221.qq.com  0.0.0.1
+smtpbg321.qq.com  14.17.32.30
+smtpbg421.qq.com  183.3.255.110
+smtpproxy21.qq.com  184.105.206.83
+smtpbg331.qq.com  14.17.43.223
+smtpbg431.qq.com  183.3.255.44
+smtpbg31.qq.com  0.0.0.1
+smtpproxy31.qq.com  0.0.0.1
+smtpbg141.qq.com  0.0.0.1
+smtpbg341.qq.com  14.17.44.36
+smtpbg441.qq.com  183.3.255.60
+51.qq.com  0.0.0.1
+smtpbg151.qq.com  0.0.0.1
+smtpbg251.qq.com  0.0.0.1
+smtpbg351.qq.com  183.57.50.165
+smtpbg451.qq.com  183.3.255.89
+smtpbg551.qq.com  183.3.226.173
+smtpbg161.qq.com  0.0.0.1
+smtpbg261.qq.com  0.0.0.1
+smtpbg361.qq.com  0.0.0.1
+smtpbg461.qq.com  0.0.0.1
+smtpbg561.qq.com  183.3.255.170
+smtpbg171.qq.com  0.0.0.1
+smtpbg371.qq.com  0.0.0.1
+smtpbg471.qq.com  59.36.132.65
+smtpbg571.qq.com  59.36.129.148
+81.qq.com  0.0.0.1
+smtpbg181.qq.com  0.0.0.1
+smtpbg281.qq.com  0.0.0.1
+smtpbg381.qq.com  203.205.176.243
+smtpbg291.qq.com  0.0.0.1
+stun-a1.qq.com  163.177.93.178
+xlab1.qq.com  203.205.235.65
+ns-cnc1.qq.com  111.161.107.195
+d1.qq.com  0.0.0.1
+ad1.qq.com  0.0.0.1
+qqgame-update1.qq.com  101.227.135.175
+live1.qq.com  0.0.0.1
+smtpbg1.qq.com  0.0.0.1
+bbsimg1.qq.com  163.177.68.179
+smtpbgsg1.qq.com  54.254.200.92
+ns-tel1.qq.com  123.151.66.83
+ns-cdn1.qq.com  111.30.143.89
+ns-open1.qq.com  103.7.30.126
+ssl.wlogin1.qq.com  121.51.142.19
+ns-cmn1.qq.com  121.51.129.28
+no1.qq.com  0.0.0.1
+smtpbgjp1.qq.com  54.238.142.250
+app1.qq.com  0.0.0.1
+smtpbgbr1.qq.com  54.207.19.206
+bbs1.qq.com  0.0.0.1
+ns1.qq.com  101.89.19.165
+dns1.qq.com  219.133.41.245
+ns-os1.qq.com  203.205.144.156
+apps1.qq.com  0.0.0.1
+rs1.qq.com  59.36.120.122
+ts1.qq.com  59.36.120.122
+t1.qq.com  0.0.0.1
+smtpbguseast1.qq.com  54.204.34.129
+smtpbgau1.qq.com  54.206.16.166
+ns-edu1.qq.com  121.51.129.28
+smtpbgeu1.qq.com  52.59.177.22
+tv1.qq.com  0.0.0.1
+www1.qq.com  0.0.0.1
+mx1.qq.com  58.251.110.111
+wx1.qq.com  203.205.254.252
+bbs.h1z1.qq.com  140.207.189.23
+mxbiz1.qq.com  203.205.232.191
+2.qq.com  0.0.0.1
+gas-storage-2.qq.com  0.0.0.1
+smtpbg202.qq.com  184.105.206.29
+smtpbg302.qq.com  0.0.0.1
+smtpbg402.qq.com  113.96.223.44
+smtpbg502.qq.com  203.205.250.69
+smtpbg702.qq.com  203.205.195.102
+smtpbg412.qq.com  113.96.223.75
+smtpbg512.qq.com  203.205.250.48
+smtpbg12.qq.com  0.0.0.1
+k12.qq.com  0.0.0.1
+smtpproxy12.qq.com  0.0.0.1
+22.qq.com  0.0.0.1
+2022.qq.com  0.0.0.1
+smtpbg222.qq.com  0.0.0.1
+smtpbg322.qq.com  14.17.32.31
+smtpbg422.qq.com  0.0.0.1
+smtpbg132.qq.com  0.0.0.1
+smtpbg332.qq.com  0.0.0.1
+smtpbg432.qq.com  183.3.255.45
+smtpbg32.qq.com  0.0.0.1
+smtpproxy32.qq.com  0.0.0.1
+smtpbg142.qq.com  0.0.0.1
+smtpbg342.qq.com  14.17.44.37
+smtpbg442.qq.com  183.3.255.61
+smtpbg152.qq.com  0.0.0.1
+smtpbg252.qq.com  0.0.0.1
+smtpbg352.qq.com  183.57.50.167
+smtpbg452.qq.com  183.3.255.91
+smtpbg552.qq.com  183.3.226.181
+smtpbg162.qq.com  0.0.0.1
+smtpbg262.qq.com  0.0.0.1
+smtpbg362.qq.com  14.215.153.231
+smtpbg462.qq.com  0.0.0.1
+smtpbg562.qq.com  183.3.255.174
+smtpbg62.qq.com  0.0.0.1
+smtpbg172.qq.com  0.0.0.1
+smtpbg272.qq.com  0.0.0.1
+smtpbg372.qq.com  0.0.0.1
+smtpbg472.qq.com  59.36.132.71
+smtpbg572.qq.com  59.36.129.162
+smtpbg182.qq.com  0.0.0.1
+smtpbg282.qq.com  0.0.0.1
+smtpbg382.qq.com  203.205.176.244
+smtpbg292.qq.com  0.0.0.1
+htdata2.qq.com  121.51.141.73
+web2.qq.com  0.0.0.1
+d1.web2.qq.com  0.0.0.1
+d.web2.qq.com  0.0.0.1
+s.web2.qq.com  0.0.0.1
+tdac2.qq.com  0.0.0.1
+ns-cnc2.qq.com  111.161.107.195
+zc2.qq.com  203.205.254.168
+bbs.mxd2.qq.com  58.246.163.161
+cface2.qq.com  203.205.254.103
+mobile2.qq.com  0.0.0.1
+qqgame-update2.qq.com  111.161.55.206
+live2.qq.com  0.0.0.1
+g2.qq.com  0.0.0.1
+smtpbg2.qq.com  0.0.0.1
+bw.tiantang2.qq.com  0.0.0.1
+smtpbgsg2.qq.com  54.254.200.128
+sssg2.qq.com  0.0.0.1
+game.qmzg2.qq.com  203.205.254.48
+sdir.qj2.qq.com  203.205.254.177
+ptlogin2.nba2k2.qq.com  203.205.235.65
+ns-tel2.qq.com  123.151.66.83
+im2.qq.com  0.0.0.1
+crm2.qq.com  203.205.219.229
+file1.crm2.qq.com  125.39.83.104
+hb.crm2.qq.com  203.205.219.232
+banner.crm2.qq.com  125.39.83.104
+visitor.crm2.qq.com  203.205.219.232
+cst.crm2.qq.com  125.39.133.43
+bbs.dn2.qq.com  58.250.136.59
+ns-cdn2.qq.com  116.128.140.104
+ns-open2.qq.com  182.254.48.197
+ui0.ptlogin2.qq.com  103.7.30.66
+sslv6.ptlogin2.qq.com  0.0.0.1
+ssl.xui.ptlogin2.qq.com  203.205.254.103
+localhost.ptlogin2.qq.com  127.0.0.1
+o2.qq.com  58.251.80.193
+ac.o2.qq.com  14.215.138.58
+pao2.qq.com  0.0.0.1
+tmo2.qq.com  163.177.92.68
+mp2.qq.com  0.0.0.1
+q2.qq.com  0.0.0.1
+app.r2.qq.com  0.0.0.1
+smtpbgbr2.qq.com  54.207.22.56
+badjs2.qq.com  203.205.253.250
+ns2.qq.com  121.51.160.100
+dns2.qq.com  61.135.157.245
+rs2.qq.com  58.251.121.55
+ts2.qq.com  58.251.121.55
+mt2.qq.com  0.0.0.1
+smtpbguseast2.qq.com  54.204.34.130
+tst2.qq.com  111.30.160.229
+smtpbgau2.qq.com  54.206.34.216
+ns-edu2.qq.com  182.254.52.55
+smtpbgeu2.qq.com  18.194.254.142
+bugreportv2.qq.com  157.255.13.138
+hx2.qq.com  0.0.0.1
+mx2.qq.com  203.205.219.58
+wx2.qq.com  113.96.233.139
+bbs.jxqy2.qq.com  121.51.179.183
+smtpproxy2.qq.com  0.0.0.1
+mxbiz2.qq.com  203.205.195.105
+pz2.qq.com  0.0.0.1
+gas-storage-3.qq.com  0.0.0.1
+03.qq.com  0.0.0.1
+smtpbg303.qq.com  0.0.0.1
+smtpbg403.qq.com  113.96.223.47
+smtpbg503.qq.com  203.205.250.57
+smtpbg703.qq.com  203.205.195.89
+my903.qq.com  0.0.0.1
+smtpbg413.qq.com  113.96.223.78
+smtpbg513.qq.com  203.205.250.40
+smtpbg13.qq.com  0.0.0.1
+smtpproxy13.qq.com  184.105.206.28
+mgr.123.qq.com  0.0.0.1
+smtpbg123.qq.com  0.0.0.1
+smtpbg223.qq.com  0.0.0.1
+smtpbg323.qq.com  0.0.0.1
+smtpbg423.qq.com  183.3.255.121
+smtpbg23.qq.com  0.0.0.1
+33.qq.com  0.0.0.1
+smtpbg133.qq.com  0.0.0.1
+smtpbg333.qq.com  0.0.0.1
+smtpbg433.qq.com  183.3.255.46
+smtpbg33.qq.com  0.0.0.1
+smtpbg143.qq.com  0.0.0.1
+smtpbg343.qq.com  0.0.0.1
+smtpbg443.qq.com  183.3.255.64
+53.qq.com  0.0.0.1
+smtpbg153.qq.com  0.0.0.1
+smtpbg353.qq.com  183.57.50.164
+smtpbg453.qq.com  0.0.0.1
+smtpbg553.qq.com  183.3.226.182
+smtpbg163.qq.com  0.0.0.1
+smtpbg263.qq.com  0.0.0.1
+smtpbg363.qq.com  0.0.0.1
+smtpbg463.qq.com  0.0.0.1
+smtpbg563.qq.com  183.3.255.176
+smtpbg63.qq.com  103.7.29.150
+smtpbg173.qq.com  0.0.0.1
+smtpbg273.qq.com  0.0.0.1
+smtpbg473.qq.com  59.36.132.72
+smtpbg573.qq.com  59.36.129.170
+smtpbg283.qq.com  0.0.0.1
+smtpbg383.qq.com  0.0.0.1
+smtpbg293.qq.com  0.0.0.1
+htdata3.qq.com  121.51.139.184
+mcache3.qq.com  0.0.0.1
+g3.qq.com  0.0.0.1
+smtpbg3.qq.com  0.0.0.1
+smtpbgsg3.qq.com  54.179.177.220
+ns-open3.qq.com  125.39.46.36
+dp3.qq.com  203.205.253.150
+c.dp3.qq.com  0.0.0.1
+smtpbgjp3.qq.com  54.92.39.34
+q3.qq.com  0.0.0.1
+ns3.qq.com  112.60.1.69
+3vs3.qq.com  0.0.0.1
+data1.act3.qq.com  0.0.0.1
+smtpbguseast3.qq.com  54.243.244.52
+bbs.jx3.qq.com  157.255.173.27
+mx3.qq.com  203.205.219.57
+404.qq.com  0.0.0.1
+smtpbg404.qq.com  113.96.223.50
+smtpbg504.qq.com  203.205.250.60
+smtpbg704.qq.com  203.205.195.105
+nanjing2014.qq.com  0.0.0.1
+114.qq.com  203.205.254.167
+800028000.114.qq.com  203.205.239.246
+800058000.114.qq.com  203.205.239.246
+4008223100.114.qq.com  203.205.239.246
+4006588100.114.qq.com  203.205.239.246
+4000128200.114.qq.com  203.205.239.246
+800053400.114.qq.com  203.205.239.246
+4008205400.114.qq.com  203.205.239.246
+4007117400.114.qq.com  203.205.239.246
+8000800800.114.qq.com  203.205.239.246
+800082800.114.qq.com  203.205.239.246
+800089800.114.qq.com  203.205.239.246
+4006289800.114.qq.com  203.205.239.246
+4008101900.114.qq.com  203.205.239.246
+800045900.114.qq.com  203.205.239.246
+4008296900.114.qq.com  203.205.239.246
+800061110.114.qq.com  203.205.239.246
+800005210.114.qq.com  203.205.239.246
+800017210.114.qq.com  203.205.239.246
+611968310.114.qq.com  203.205.239.246
+800026410.114.qq.com  203.205.239.246
+800029610.114.qq.com  203.205.239.246
+800809710.114.qq.com  203.205.239.246
+800098810.114.qq.com  203.205.239.246
+4006051020.114.qq.com  203.205.239.246
+800004020.114.qq.com  203.205.239.246
+4006900120.114.qq.com  203.205.239.246
+800032120.114.qq.com  203.205.239.246
+4008014120.114.qq.com  203.205.239.246
+4000477120.114.qq.com  203.205.239.246
+800030920.114.qq.com  203.205.239.246
+800071030.114.qq.com  203.205.239.246
+800003030.114.qq.com  203.205.239.246
+4006888130.114.qq.com  203.205.239.246
+800016630.114.qq.com  203.205.239.246
+800084040.114.qq.com  203.205.239.246
+4008081240.114.qq.com  203.205.239.246
+800066340.114.qq.com  203.205.239.246
+4000517940.114.qq.com  203.205.239.246
+4000215150.114.qq.com  203.205.239.246
+800082460.114.qq.com  203.205.239.246
+4008509560.114.qq.com  203.205.239.246
+800015660.114.qq.com  203.205.239.246
+800107660.114.qq.com  203.205.239.246
+4006690760.114.qq.com  203.205.239.246
+4006890760.114.qq.com  203.205.239.246
+www.800039270.114.qq.com  203.205.239.246
+4000010080.114.qq.com  203.205.239.246
+800092080.114.qq.com  203.205.239.246
+800182180.114.qq.com  203.205.239.246
+800047280.114.qq.com  203.205.239.246
+800069280.114.qq.com  203.205.239.246
+4000371580.114.qq.com  203.205.239.246
+4006681680.114.qq.com  203.205.239.246
+4000688880.114.qq.com  203.205.239.246
+4006709090.114.qq.com  203.205.239.246
+800003290.114.qq.com  203.205.239.246
+img0.114.qq.com  203.205.254.48
+4008778001.114.qq.com  203.205.239.246
+4008205101.114.qq.com  203.205.239.246
+800059101.114.qq.com  203.205.239.246
+800013301.114.qq.com  203.205.239.246
+800090011.114.qq.com  203.205.239.246
+800064011.114.qq.com  203.205.239.246
+4006106111.114.qq.com  203.205.239.246
+800020211.114.qq.com  203.205.239.246
+800040211.114.qq.com  203.205.239.246
+800015611.114.qq.com  203.205.239.246
+800070021.114.qq.com  203.205.239.246
+4001621221.114.qq.com  203.205.239.246
+4006581521.114.qq.com  203.205.239.246
+800095531.114.qq.com  203.205.239.246
+800003931.114.qq.com  203.205.239.246
+4006778641.114.qq.com  203.205.239.246
+800013741.114.qq.com  203.205.239.246
+800015941.114.qq.com  203.205.239.246
+4009980051.114.qq.com  203.205.239.246
+4006120551.114.qq.com  203.205.239.246
+4008996161.114.qq.com  203.205.239.246
+800082661.114.qq.com  203.205.239.246
+800006861.114.qq.com  203.205.239.246
+800029961.114.qq.com  203.205.239.246
+4000000271.114.qq.com  203.205.239.246
+800003671.114.qq.com  203.205.239.246
+800015671.114.qq.com  203.205.239.246
+800083281.114.qq.com  203.205.239.246
+800082881.114.qq.com  203.205.239.246
+800003981.114.qq.com  203.205.239.246
+4006051091.114.qq.com  203.205.239.246
+4008000291.114.qq.com  203.205.239.246
+800053691.114.qq.com  203.205.239.246
+800006691.114.qq.com  203.205.239.246
+4006612002.114.qq.com  203.205.239.246
+800085002.114.qq.com  203.205.239.246
+4008036002.114.qq.com  203.205.239.246
+4006007002.114.qq.com  203.205.239.246
+800005102.114.qq.com  203.205.239.246
+4001882202.114.qq.com  203.205.239.246
+4006662402.114.qq.com  203.205.239.246
+4000331112.114.qq.com  203.205.239.246
+800013412.114.qq.com  203.205.239.246
+800180022.114.qq.com  203.205.239.246
+800071022.114.qq.com  203.205.239.246
+4006229222.114.qq.com  203.205.239.246
+4000527322.114.qq.com  203.205.239.246
+800032522.114.qq.com  203.205.239.246
+4008203622.114.qq.com  203.205.239.246
+800169332.114.qq.com  203.205.239.246
+800106432.114.qq.com  203.205.239.246
+4006667632.114.qq.com  203.205.239.246
+800076732.114.qq.com  203.205.239.246
+4000009152.114.qq.com  203.205.239.246
+4006008062.114.qq.com  203.205.239.246
+4008800762.114.qq.com  203.205.239.246
+938036372.114.qq.com  203.205.239.246
+4006888672.114.qq.com  203.205.239.246
+800001082.114.qq.com  203.205.239.246
+800025082.114.qq.com  203.205.239.246
+4000028182.114.qq.com  203.205.239.246
+4006688282.114.qq.com  203.205.239.246
+4000016682.114.qq.com  203.205.239.246
+4006627782.114.qq.com  203.205.239.246
+800060982.114.qq.com  203.205.239.246
+4006262092.114.qq.com  203.205.239.246
+4009990592.114.qq.com  203.205.239.246
+4009920992.114.qq.com  203.205.239.246
+800074003.114.qq.com  203.205.239.246
+8008008003.114.qq.com  203.205.239.246
+4000222103.114.qq.com  203.205.239.246
+710034203.114.qq.com  203.205.239.246
+www.4008008203.114.qq.com  203.205.239.246
+4001680303.114.qq.com  203.205.239.246
+4006080503.114.qq.com  203.205.239.246
+800066503.114.qq.com  203.205.239.246
+4000972013.114.qq.com  203.205.239.246
+4008870113.114.qq.com  203.205.239.246
+800002113.114.qq.com  203.205.239.246
+4008001413.114.qq.com  203.205.239.246
+800151413.114.qq.com  203.205.239.246
+800088123.114.qq.com  203.205.239.246
+4008551223.114.qq.com  203.205.239.246
+800015423.114.qq.com  203.205.239.246
+800002523.114.qq.com  203.205.239.246
+800015523.114.qq.com  203.205.239.246
+800052623.114.qq.com  203.205.239.246
+800003623.114.qq.com  203.205.239.246
+800020033.114.qq.com  203.205.239.246
+4001582233.114.qq.com  203.205.239.246
+4006338233.114.qq.com  203.205.239.246
+4008639333.114.qq.com  203.205.239.246
+4001889333.114.qq.com  203.205.239.246
+4006822833.114.qq.com  203.205.239.246
+4006340053.114.qq.com  203.205.239.246
+800085353.114.qq.com  203.205.239.246
+800066753.114.qq.com  203.205.239.246
+800051953.114.qq.com  203.205.239.246
+800061663.114.qq.com  203.205.239.246
+4001188963.114.qq.com  203.205.239.246
+800071173.114.qq.com  203.205.239.246
+4000001273.114.qq.com  203.205.239.246
+4000559773.114.qq.com  203.205.239.246
+800047083.114.qq.com  203.205.239.246
+4006667183.114.qq.com  203.205.239.246
+800076883.114.qq.com  203.205.239.246
+4000539293.114.qq.com  203.205.239.246
+800001993.114.qq.com  203.205.239.246
+4000931114.114.qq.com  203.205.239.246
+800028114.114.qq.com  203.205.239.246
+4006421314.114.qq.com  203.205.239.246
+800008614.114.qq.com  203.205.239.246
+800033814.114.qq.com  203.205.239.246
+938075124.114.qq.com  203.205.239.246
+800022224.114.qq.com  203.205.239.246
+4006003434.114.qq.com  203.205.239.246
+800001044.114.qq.com  203.205.239.246
+800074044.114.qq.com  203.205.239.246
+800065044.114.qq.com  203.205.239.246
+800001944.114.qq.com  203.205.239.246
+800051054.114.qq.com  203.205.239.246
+800006454.114.qq.com  203.205.239.246
+4000017854.114.qq.com  203.205.239.246
+800002864.114.qq.com  203.205.239.246
+4002025174.114.qq.com  203.205.239.246
+800039674.114.qq.com  203.205.239.246
+800013874.114.qq.com  203.205.239.246
+4000005784.114.qq.com  203.205.239.246
+800056894.114.qq.com  203.205.239.246
+800081994.114.qq.com  203.205.239.246
+800008505.114.qq.com  203.205.239.246
+800000705.114.qq.com  203.205.239.246
+800081015.114.qq.com  203.205.239.246
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 mx.qq.com > 0.0.0.1
+0.0.0.0 mx0.qq.com > 0.0.0.1
+0.0.0.0 http.qq.com > 180.163.26.39
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 mx1.qq.com > 58.251.110.111
+0.0.0.0 http.qq.com > 240e:e1:a900:10::54
+0.0.0.0 id.qq.com > 203.205.254.103
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 mx1.qq.com > 240d:c040:1:40::133
+0.0.0.0 ads.qq.com > 14.17.32.217
+0.0.0.0 test.qq.com > 58.250.137.42                           
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#             
+0.0.0.0 news.qq.com > 203.205.254.157
+0.0.0.0 info.qq.com > 0.0.0.1
+0.0.0.0 news.qq.com > 2402:4e00:8010::9e                 
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#                  
+0.0.0.0 ns.qq.com > 0.0.0.1
+0.0.0.0 test1.qq.com > 0.0.0.1
+0.0.0.0 alpha.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 ap.qq.com > 14.18.180.36
+0.0.0.0 dns.qq.com > 119.29.29.229
+0.0.0.0 ns1.qq.com > 101.89.19.165
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 ns1.qq.com > 157.255.246.101
+0.0.0.0 ns1.qq.com > 183.3.226.207
+0.0.0.0 testing.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 app.qq.com > 203.205.235.38
+0.0.0.0 app.qq.com > 203.205.235.63
+0.0.0.0 download.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 vm.qq.com > 203.205.219.230
+0.0.0.0 apps.qq.com > 203.205.219.228
+0.0.0.0 ipv6.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 en.qq.com > 203.205.219.231
+0.0.0.0 ns2.qq.com > 121.51.160.100
+0.0.0.0 ns2.qq.com > 123.151.66.78
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 ns2.qq.com > 203.205.177.41
+0.0.0.0 ns3.qq.com > 112.60.1.69
+0.0.0.0 ns3.qq.com > 183.192.201.116
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 eshop.qq.com > 203.205.235.38
+0.0.0.0 eshop.qq.com > 203.205.235.63
+0.0.0.0 linux.qq.com > 10.237.156.13
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 ops.qq.com > 0.0.0.1
+0.0.0.0 auth.qq.com > 0.0.0.1
+0.0.0.0 local.qq.com > 163.177.90.84
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 oracle.qq.com > 0.0.0.1
+0.0.0.0 backup.qq.com > 0.0.0.1
+0.0.0.0 web.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 f5.qq.com > 203.205.137.29
+0.0.0.0 f5.qq.com > 203.205.158.50
+0.0.0.0 f5.qq.com > 203.205.158.61
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 f5.qq.com > 203.205.158.65
+0.0.0.0 log.qq.com > 101.227.160.36
+0.0.0.0 beta.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 mail.qq.com > 203.205.219.95
+0.0.0.0 mail.qq.com > 203.205.235.161
+0.0.0.0 blog.qq.com > 180.163.26.39
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 blog.qq.com > 240e:e1:a900:10::54
+0.0.0.0 whois.qq.com > 0.0.0.1
+0.0.0.0 cdn.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 wiki.qq.com > 0.0.0.1
+0.0.0.0 www.qq.com > 23.198.121.20
+0.0.0.0 www.qq.com > 2600:1417:55:1b1::180c
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 www.qq.com > 2600:1417:55:1b3::180c
+0.0.0.0 chat.qq.com > 0.0.0.1
+0.0.0.0 server.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 cms.qq.com > 104.108.199.137
+0.0.0.0 shop.qq.com > 150.109.206.38
+0.0.0.0 shop.qq.com > 150.109.207.111
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 shop.qq.com > 203.205.158.37
+0.0.0.0 shop.qq.com > 203.205.158.38
+0.0.0.0 gw.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 corp.qq.com > 0.0.0.1
+0.0.0.0 help.qq.com > 14.18.180.36
+0.0.0.0 smtp.qq.com > 14.17.57.241
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 smtp.qq.com > 14.18.245.164
+0.0.0.0 home.qq.com > 0.0.0.1
+0.0.0.0 demo.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 ssl.qq.com > 203.205.254.103
+0.0.0.0 mobile.qq.com > 203.205.219.54
+0.0.0.0 monitor.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 mta.qq.com > 203.205.232.188
+
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 mx.qq.com > 0.0.0.1
+0.0.0.0 mx0.qq.com > 0.0.0.1
+0.0.0.0 http.qq.com > 180.163.26.39
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 mx1.qq.com > 58.251.110.111
+0.0.0.0 http.qq.com > 240e:e1:a900:10::54
+0.0.0.0 id.qq.com > 203.205.254.103
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 mx1.qq.com > 240d:c040:1:40::133
+0.0.0.0 ads.qq.com > 14.17.32.217
+0.0.0.0 test.qq.com > 58.250.137.42                           
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#             
+0.0.0.0 news.qq.com > 203.205.254.157
+0.0.0.0 info.qq.com > 0.0.0.1
+0.0.0.0 news.qq.com > 2402:4e00:8010::9e                 
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#                  
+0.0.0.0 ns.qq.com > 0.0.0.1
+0.0.0.0 test1.qq.com > 0.0.0.1
+0.0.0.0 alpha.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 ap.qq.com > 14.18.180.36
+0.0.0.0 dns.qq.com > 119.29.29.229
+0.0.0.0 ns1.qq.com > 101.89.19.165
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 ns1.qq.com > 157.255.246.101
+0.0.0.0 ns1.qq.com > 183.3.226.207
+0.0.0.0 testing.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 app.qq.com > 203.205.235.38
+0.0.0.0 app.qq.com > 203.205.235.63
+0.0.0.0 download.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 vm.qq.com > 203.205.219.230
+0.0.0.0 apps.qq.com > 203.205.219.228
+0.0.0.0 ipv6.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 en.qq.com > 203.205.219.231
+0.0.0.0 ns2.qq.com > 121.51.160.100
+0.0.0.0 ns2.qq.com > 123.151.66.78
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 ns2.qq.com > 203.205.177.41
+0.0.0.0 ns3.qq.com > 112.60.1.69
+0.0.0.0 ns3.qq.com > 183.192.201.116
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 eshop.qq.com > 203.205.235.38
+0.0.0.0 eshop.qq.com > 203.205.235.63
+0.0.0.0 linux.qq.com > 10.237.156.13
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 ops.qq.com > 0.0.0.1
+0.0.0.0 auth.qq.com > 0.0.0.1
+0.0.0.0 local.qq.com > 163.177.90.84
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 oracle.qq.com > 0.0.0.1
+0.0.0.0 backup.qq.com > 0.0.0.1
+0.0.0.0 web.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 f5.qq.com > 203.205.137.29
+0.0.0.0 f5.qq.com > 203.205.158.50
+0.0.0.0 f5.qq.com > 203.205.158.61
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 f5.qq.com > 203.205.158.65
+0.0.0.0 log.qq.com > 101.227.160.36
+0.0.0.0 beta.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 mail.qq.com > 203.205.219.95
+0.0.0.0 mail.qq.com > 203.205.235.161
+0.0.0.0 blog.qq.com > 180.163.26.39
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 blog.qq.com > 240e:e1:a900:10::54
+0.0.0.0 whois.qq.com > 0.0.0.1
+0.0.0.0 cdn.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 wiki.qq.com > 0.0.0.1
+0.0.0.0 www.qq.com > 23.198.121.20
+0.0.0.0 www.qq.com > 2600:1417:55:1b1::180c
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 www.qq.com > 2600:1417:55:1b3::180c
+0.0.0.0 chat.qq.com > 0.0.0.1
+0.0.0.0 server.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 cms.qq.com > 104.108.199.137
+0.0.0.0 shop.qq.com > 150.109.206.38
+0.0.0.0 shop.qq.com > 150.109.207.111
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 shop.qq.com > 203.205.158.37
+0.0.0.0 shop.qq.com > 203.205.158.38
+0.0.0.0 gw.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 corp.qq.com > 0.0.0.1
+0.0.0.0 help.qq.com > 14.18.180.36
+0.0.0.0 smtp.qq.com > 14.17.57.241
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 smtp.qq.com > 14.18.245.164
+0.0.0.0 home.qq.com > 0.0.0.1
+0.0.0.0 demo.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 ssl.qq.com > 203.205.254.103
+0.0.0.0 mobile.qq.com > 203.205.219.54
+0.0.0.0 monitor.qq.com > 0.0.0.1
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.0 mta.qq.com > 203.205.232.188
+		  127.0.0.1  	localhost
+::1       127.0.0.1     localhost
+::1          		    ip6-localhost       ip6-localhost
+		  127.0.0.1     localhost
+::1       127.0.0.1     localhost
+::1                     ip6-localhost       ip6-localhost
+		  127.0.0.1     localhost
+::1       127.0.0.1     localhost
+::1                     ip6-localhost       ip6-localhost
+		  127.0.0.1     localhost
+::1       127.0.0.1     localhost
+::1                     ip6-localhost       ip6-localhost
+
+
+127.0.0.1ava.qq.com
+127.0.0.1mat1.qq.com
+127.0.0.1support.qq.com
+127.0.0.1r2.qq.com
+127.0.0.1xj.qq.com
+127.0.0.1xxz.qq.com
+127.0.0.12010.qq.com
+127.0.0.1webqq.qq.com
+127.0.0.1bb.qq.com
+127.0.0.1love.qq.com
+
+0.0.0.0 loop   m ok mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+127.0.0.1sample.gabia.com
+127.0.0.1image.gabia.com
+127.0.0.1echosting.gabia.com
+127.0.0.1global.gabia.com
+127.0.0.1counter.gabia.com
+127.0.0.1echangup.gabia.com
+127.0.0.1auction.gabia.com
+127.0.0.1flv.gabia.com
+127.0.0.1addition.gabia.com
+
+
+
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.1 mail4.tencent.com,183.57.53.109
+0.0.0.1 m4.tencent.com,58.251.80.167
+0.0.0.1 mail5.tencent.com,103.7.30.235
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.1 mail6.tencent.com,103.7.30.236
+0.0.0.1 mail8.tencent.com,123.151.155.118
+0.0.0.1 mail9.tencent.com,123.151.155.119
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.1 a.tencent.com,0.0.0.1
+0.0.0.1 xiaoma.tencent.com,58.250.137.70
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+0.0.0.1 szmb.oa.tencent.com,182.254.34.85
+0.0.0.1 uc.oa.tencent.com,14.17.22.11
+0.0.0.1 vc.oa.tencent.com
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
